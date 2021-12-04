@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jmkknight
+- 👀 I’m interested in ... coding, gaming, and gaming PCs
+- 🌱 I’m currently learning ... coding algorithms and OOP
+- 💞️ I’m looking to collaborate on ... learning coding
+- 📫 How to reach me ... email - jmkknight@gmail.com
